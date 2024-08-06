@@ -35,3 +35,10 @@ CREATE TABLE `evnts` (
   `data_evento` date DEFAULT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
+
+CREATE TABLE `tipo_evento` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `tipo` varchar(45) DEFAULT NULL,
+  `cor` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=4 DEFAULT CHARSET=utf8;
