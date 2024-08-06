@@ -1,4 +1,5 @@
-<h1 align="center"> Argon Social </h1> <br>
+<h1 align="center"> Baseado no projeto abaixo </h1> <br><br>
+<p align="center"> Projeto feito com inspiração no modelo abaixo, a ideia inicial era ser algo empresarial separado por grupos e setores de dentro de uma empresa, infelizmente o projeto nunca foi terminado e ficou apenas essa parte por completo</p> <br>
 <p align="center">
   <a href="https://artmin96.github.io/argon-social/" target="_blank">
     <img alt="Argon Social" title="Argon Social" src="https://github.com/ArtMin96/argon-social/blob/master/assets/images/logo-256x256.png" width="450">
